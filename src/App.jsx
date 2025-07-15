@@ -47,7 +47,7 @@ function App() {
         <h2 className="hover-glow">Technical Skills</h2>
         <ul>
           <li className="hover-glow">Frontend: HTML, CSS, JavaScript, Svelte, Tailwind CSS</li>
-          <li className="hover-glow">Backend: Node.js, Prisma, SQL, MySQL</li>
+          <li className="hover-glow">Backend: Node.js, SQL, MySQL</li>
           <li className="hover-glow">Languages: Java, C/C++, Python</li>
           <li className="hover-glow">Version Control: Git, GitHub</li>
         </ul>
